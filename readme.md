@@ -3,6 +3,10 @@
 ## About
 This is a WordPress development internship project at Proton Soft Tech.
 
+### Project Preview / Live Demo
+
+https://github.com/user-attachments/assets/4ef5ceac-a37a-41bd-84fe-6cc3d1eb4330
+
 ## Tech Stack
 - WordPress
 - PHP
